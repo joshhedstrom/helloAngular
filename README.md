@@ -1,6 +1,6 @@
 # Resources:
-# https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
-# https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript
+## https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
+## https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Ng6Proj
